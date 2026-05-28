@@ -21,10 +21,12 @@ This project is an NLP-based machine learning system that automatically classifi
 - Model accuracy comparison
 - Confusion matrix and evaluation metrics
 
+# 👩‍💻 Author
+
+Priyanka
+
 ## ▶️ How to Run
 ```bash
 python app.py
 
-# 👩‍💻 Author
 
-Priyanka
